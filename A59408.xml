@@ -1,0 +1,368 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Innocency modestly vindicated and truth impartially, though (but partly discovered) by Thomas Shadforth, Esquire against George Lilburne, Esquire.</title>
+            <author>Shadforth, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59408</idno>
+            <idno type="STC">Wing S2833</idno>
+            <idno type="STC">ESTC R11380</idno>
+            <idno type="EEBO-CITATION">11910481</idno>
+            <idno type="OCLC">ocm 11910481</idno>
+            <idno type="VID">50792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Innocency modestly vindicated and truth impartially, though (but partly discovered) by Thomas Shadforth, Esquire against George Lilburne, Esquire.</title>
+                  <author>Shadforth, Thomas.</author>
+               </titleStmt>
+               <extent>[1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50792:1"/>
+            <pb n="1" facs="tcp:50792:1" rendition="simple:additions"/>
+            <head>
+               <hi>Innocency</hi> modeſtly vindicated and <hi>truth</hi> impartially, though (but partly diſcovered) by <hi>Thomas Shadforth,</hi> Eſquire, againſt <hi>George Lilburne,</hi> Eſquire.</head>
+            <head type="sub">For right information of all thoſe who have peruſed a late falſe Remonſtrance by him the ſame <hi>George Lilburne</hi> publiſhed, and atteſted under his hand.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ad this great and <hi>zealous</hi> Pretenders <hi>Cauſe,</hi> been ſo good and he himſelfe ſo cleare, as his ſpecious, but falſe and cunning <hi>Inſinuations</hi> would make it and him, his <hi>Caſe</hi> be<g ref="char:EOLhyphen"/>ing now ſtated, witneſſes examined, a faire way made (and that by his owne <hi>Petition</hi>) for an impartiall hearing, he would not offer (at leaſt he would not need, in this by and uncouth way of inveagling all the ſeverall <hi>Members</hi> appointed for his Judges though in vaine) to indeavour the <hi>forſtalling</hi> of the greateſt <hi>Mart</hi> of Juſtice (for it was ſelect and called out of the whole on purpoſe) that ever yet was in any particular mans cauſe, ſince this preſent <hi>Parliament</hi> begun; caſting <hi>du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the face (as much as in him lies) of a <hi>Mem<g ref="char:EOLhyphen"/>ber</hi> thereof whole <hi>integrity</hi> is ſo known, and he ſo cleare as I ſhould wrong him in offering the leaſt <hi>Apology,</hi> and therefore ſpare it: But would have ſtood or falne, according to the <hi>Allegata &amp; Probata</hi> of his cauſe, and wholy relied on the <hi>merits</hi> thereof, as I my ſelfe ſhall doe on mine, (proſecu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with much more <hi>malice,</hi> and as I doubt not the effect will make appeare, much leſſe truth, and meerely u<g ref="char:EOLhyphen"/>pon private ſpleene) yet in ſoe doing he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath but beaten the <hi>Winds,</hi> the <hi>Rocks</hi> his ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly and <hi>mightleſſe</hi> waves beat againſt, will neither be worne nor moved with ſuch impotent aſſaults; however le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t either his <hi>Accuſations</hi> and ſcurrilous <hi>Aſpertions</hi> of my ſelfe and friends, friends of mine meerely becauſe of and for the truth) or his owne
+<pb n="2" facs="tcp:50792:2"/> 
+               <hi>evaſions</hi> may paſſe for currant, amongſt thoſe who either through <hi>non</hi> knowledge or prejudice are ſtrangers both to us, our caſes and ends, I ſhall briefely, but very truely (ſo truely as I ſhall appeare to the candid <hi>leaſure</hi> and knowledge of our whole County, where all our <hi>tranſactions, waies,</hi> and <hi>deſigns</hi> are apparent) both offenſively and defenſively take up the <hi>Buckler</hi> againſt this <hi>Goliah</hi> of the peoples <hi>Li<g ref="char:EOLhyphen"/>berty</hi> and Idempni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, <hi>viz. his owne dearely beloved ſelfe, and more dearely beloved Family,</hi> and now Mr. <hi>Lilburne</hi> to your <hi>Remonſtranoe.</hi>
+            </p>
+            <p>How ſerviceable you have been in your <hi>Generation</hi> for <hi>preſerva<g ref="char:EOLhyphen"/>tion</hi> either of your <hi>Nations Intereſt,</hi> or indeed any other ſave your owne, your deare <hi>brothers,</hi> your kindreds and ſervants; let them ſpeake that know it, for to any but your ſelfe, and thoſe <hi>Ditto deare friends,</hi> it is a <hi>Ridle:</hi> But to your own and their Intereſt you have in<g ref="char:EOLhyphen"/>deed <hi>(to ſpeak modeſtly)</hi> bin no way wanting. Your own <hi>injoyment</hi> of <hi>Foord field</hi> worth <hi>three hundreth pounds per An.</hi> due and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yable to a <hi>Delinquent,</hi> without either account to that Delinquent, his wife or childre<g ref="char:cmbAbbrStroke">̄</g>, or indeed to the <hi>State</hi> in the leaſt manner, for ought I know, for whoſe uſe it was ſequeſtrable: your making uſe of Mr. <hi>Hen<g ref="char:EOLhyphen"/>ry Lambtons</hi> Delinquency to force him to a Compoſition inconſi<g ref="char:EOLhyphen"/>derable for Coles by you and your <hi>Agent,</hi> imbeſled and intended to be concealed both from him and the <hi>State,</hi> by which you gained ſome thouſands: Your farming of Delinquents Lands, and Col<g ref="char:EOLhyphen"/>lyeries of very great value, by your ſelfe or your <hi>Truſtee ſharers,</hi> at very low and inconſiderable <hi>Rates</hi> and yet paying all your Rents in <hi>Items &amp; imprimeſſes,</hi> in or by ſuch accounts as you pleaſed to make and allow of: For a great while you and your party ſwayed all the whole <hi>County,</hi> (and I believe it is both your greateſt <hi>greefe</hi> and <hi>anger</hi> that you cannot do ſo ſtill) to the oppreſſing of whom you pleaſed to call or make Delinquents, or cleare ſuch as you <hi>deigned</hi> to caſt a favourable <hi>glance</hi> upon: Your taking of goods, and diſpoſing of them firſt, then making Delinquents of the owner, who upon <hi>evi<g ref="char:EOLhyphen"/>dence</hi> and full <hi>bearing</hi> being diſcharged, muſt either accept a third of the true <hi>value</hi> or loſe all, as the Lady <hi>Tempeſts</hi> Caſe, to the very
+<pb n="3" facs="tcp:50792:2"/> great <hi>ſcandall</hi> of the Parliament, who would have <hi>Iuſtice</hi> done with <hi>mercy,</hi> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>violence</hi> with <hi>rigour:</hi> The procuring your ſelfe and A<g ref="char:EOLhyphen"/>gent <hi>Husband</hi> into the Commiſſion for ſurveying of Biſhops Lands, and by that receiving ten ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling <hi>per d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em</hi> whilſt you for your par<g ref="char:EOLhyphen"/>ticular ſit at home in your ſhop vending your hard penny-worths of Soape and Raſins unleſſe when for recreation you were pleaſed (once perchance in two Moneths) to ride halfe a ſcore o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miles, and feede at the Truſtees Charges, and then knowing what particulars were aymed at, and by whom making ſo much as in you and your man <hi>Husband</hi> lay the <hi>rates</hi> and <hi>returnes</hi> high or low, as your affecti<g ref="char:EOLhyphen"/>on or malice dictated, though you failed of your purpoſe in Sander<g ref="char:EOLhyphen"/>land and Newbottle, c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to a more worthy hand; but intended to your ſelfe as you Agent <hi>Husband</hi> within few dayes confeſſed. Your imploying your po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phew <hi>Blacket,</hi> and o<g ref="char:EOLhyphen"/>thers of your kindred Sequeſtrators who have by that means made their 000 hundreds, accounting for goods worth ſome hundreds at under 20l. as in Sir <hi>George Bakers</hi> C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe. You<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brothers taking and buying much go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds of that <hi>nature,</hi> never yet accounted for, as M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>P.</hi> his Pla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and the like will fully <hi>demonſtrate</hi> that you have indeed been <hi>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rviceable</hi> in but not to you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Generation.</hi>
+            </p>
+            <p>Your oppoſing of <hi>ſhip-money</hi> (if any ſuch) was probably an <hi>in<g ref="char:EOLhyphen"/>nate diſpoſition</hi> (which you have <hi>extraduce</hi>) of thwarting what your ſelfe was not imployed in; and yet making uſe of you <hi>power</hi> in this Parliament; you gained a conſiderable ſum by forcing <hi>Conſtables</hi> then impl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yed to diſtrain for <hi>ſhip money</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o compound with you for feare of further <hi>trouble,</hi> as may be inſtanced in <hi>Rich Sm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, Rob. Pattiſon<g ref="char:punc">▪</g> Ralph Holmes,</hi> and ſeven or eight more. For Proj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts name any of them you ever withſtood, till the whole <hi>Vogue</hi> went againſt them. And for Biſhops, you may call to minde it was a Biſhop who firſt made you Right worſhipful, and enabled you from Mr. <hi>Humphry Whartons</hi> fitter, to ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon the Bench as a Juſtice of Peace (no grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſigne of oppoſition as I take i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) yet I confeſſe with one Clergy man you had ſome ſquable about a <hi>Doctrine</hi> you under<g ref="char:EOLhyphen"/>ſtood
+<pb n="4" facs="tcp:50792:3"/> not, and with another you fell out, for revealing how groſſ<g ref="char:EOLhyphen"/>ly you abuſed him in a bargaine of Coales under truſt, full 6l. in 20l. Do not therefore thinke by your pretended blowing of the <hi>duſt</hi> caſt upon you to beſmeare Mr. <hi>Iohn Blakiſton,</hi> he will appeare in his <hi>ſplendor,</hi> and I hope I ſhall in time make you appeare in your <hi>Colours,</hi> ſo right as beleeve it if you ſtrive to <hi>abſterge</hi> (there I am quit with you for one of your hard words) you will but waſh the <hi>Ethiop.</hi> Onely let me tell you (by the way) it is a new and odde kinde of <hi>defence</hi> to Calumniate one of your Judges, who was as far from any ſuch <hi>indirect</hi> and <hi>underhand</hi> procuring either of a falſe <hi>Certifi<g ref="char:EOLhyphen"/>cate,</hi> or favourable <hi>Abatement</hi> as you are from <hi>truth</hi> and <hi>honeſty;</hi> and for Mr. <hi>Coulſton</hi> and others, ſcandalouſly by you made his <hi>In<g ref="char:EOLhyphen"/>ſtruments</hi> to that purpoſe, the truth of that will I doubt not appear upon his <hi>Tryall</hi> in the <hi>Action</hi> of the Caſe brought, or intended to be brought againſt you by him, for that groſſe and falſe ſlandering of him in the execution of his office; but he is big enough to anſwer for himſelfe. <hi>Non ad me pertinet ole.</hi>
+            </p>
+            <p>To what purpoſe Mr. <hi>Thomas Midfords</hi> Certificate brings up the <hi>Van</hi> of your impertinencies I confeſſe I underſtand not; yet ſince it is crouded in, the <hi>truth</hi> of that ſtory will very little advantage you (no more then the credit of your Certifier (who ſtands at this day legally indicted of) &amp; the truth is this, that ſuch information about Papiſts muſtering, and riding Armed was given to the then Depu<g ref="char:EOLhyphen"/>ty Lievetenants, of whom the <hi>Knights</hi> named probably were two, is true, and a Letter procured as I verily beleeve from the Honou<g ref="char:EOLhyphen"/>rable Speaker of the Parliament. It is as true that they inſtantly fell into inquiry and ſearch of the truth of it, finding no colour for it, urged the informer to make proofe of it, and after many fay<g ref="char:EOLhyphen"/>lings, they were aſhamed to have taken ſuch paines upon &amp; from ſo triviall an information and informer: what honour this was to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cauſe and Parliament to abuſe the Speaker and Houſe ſo groſſely and falſly, let the world Judge.</p>
+            <p>What power Judge <hi>Heath</hi> had to put any man out of <hi>Commiſsion</hi>
+               <pb n="5" facs="tcp:50792:3"/> or whether he did ſo or no, it concernes me not, neither will I diſ<g ref="char:EOLhyphen"/>pute it, probably the Jndictment hath been for ſome other matter, <hi>&amp;c.</hi> from the Bench to plead to it; neither is it impoſſible, it is not the firſt time you were at the Barre you know it.</p>
+            <p>At the beginning of the Earle of <hi>Newcaſtle Arraying</hi> of men, you were ſo long preſent and acting with them, till ſome ſmall diſtaſt of your not having equall reſpect or power made you petted as is beleeved, and ſent you perchance privately into <hi>Scotland;</hi> you ſay you were there, and I will not gaineſay it; but I am confident you ſee them in a poſture likely to prevaile ere you ſtirred, and yet both went and returned ſo privately as you had a reſerve, at leaſt a deſign to make ſure what ſide ſoever ſhould prevaile. A <hi>trick</hi> which pro<g ref="char:EOLhyphen"/>bably you had not forgot at their very laſt invaſion, however you acted with ſuch ſeeming <hi>Iehu like Zeale</hi> againſt them, as even be<g ref="char:EOLhyphen"/>ing out of <hi>Commiſsion</hi> and <hi>imployment</hi> (a thing you could never in<g ref="char:EOLhyphen"/>dure) you ſtill drove on with the reſt; who neither needed nor I beleeve thanked you for that your double dilligence. I will tel you a ſhort ſtory. There was one T. C. your neighbour drove in thoſe times beyond Seas by your violence: Warrants ſigned by you for Attaching him; it ſeemes he met with ſome friends about the then Princes Court in France, adviſed and incouraged him (upon hea<g ref="char:EOLhyphen"/>ring his caſe) to repaire back to his habitation, and do his ſervice to you; he did ſo, met you on the Key, ſtood a volley of your frownes, at laſt accourted you with a private commends from the party you wot of, was diſmiſt, your Warrant recalled, and had not death prevented it, probably might ſtill have lived quietly, your Malignant Neighbour: <hi>But dead men can tell no tales;</hi> how<g ref="char:EOLhyphen"/>ever you know this is more then a viſion: But to Scotland you went, and that by your Brother in Law Mr. <hi>Levers</hi> perſwaſion. It is ſtrange his <hi>opinions</hi> ſhould ſo ſoon alter as from an high Preacher and Practiſer too, and all Tenents and Ceremonies (then even in their height) to fall to a Claſſicall way; but ſince you have beene both inſpired, he with Dr. <hi>Coſins</hi> his fat living, and you with pro<g ref="char:EOLhyphen"/>fit and imployments.</p>
+            <pb n="6" facs="tcp:50792:4"/>
+            <p>At your returne, it ſeemes after (ſome ſmall interruption by Ba<g ref="char:EOLhyphen"/>ron <hi>Lyddall</hi> (a Baron by the way never heard of before) you uſed ſuch meanes with Colonel <hi>Carnaby,</hi> as to have the <hi>Earle of New<g ref="char:EOLhyphen"/>caſtles protection,</hi> and I doubt not it will appeare in the cloſe of your Caſe that you did ſomewhat to deſerve it. What your ing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<g ref="char:EOLhyphen"/>ment was (for he was not very forward in admitting ſuſpected men without ingagement, as I have credibly beard) I will not take u<g ref="char:EOLhyphen"/>pon me to diſcover, time will doe it. Truth is, your play was al<g ref="char:EOLhyphen"/>wayes to ſave ſtakes, and now you have run through C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>val<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, rid<g ref="char:EOLhyphen"/>ged P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esbyterian, Independent, and arrived at — and I doubt will never prove a Martyr, if yet there ſhould be a further G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>on or Charge.</p>
+            <p>You were indeed made a <hi>Priſoner</hi> and ill uſed, and I believe (<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cauſe on the other ſide being almoſt deſperate) did no little Glo<g ref="char:EOLhyphen"/>ry in it: For any loſſe in your eſta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e I wonder you are not aſhamed to allege it: Your beſt things were conveighed ſafe to <hi>Scarborough,</hi> and nothing conſiderable of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt loſt, I could name you friends on the other pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, who did protect and conceale them.</p>
+            <p>What courtiſies Mr. <hi>Ralph Lamb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> did for you, I know not, but I believe your arreſting him without C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe, was but a meane requitall, examine him to that point too. It is not denyed you were imp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſoned and exchanged, you l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt nothing by the bargain, nor by your dearely beloved imploym<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt in the Committee of Sequeſtrations; a place it ſeemes you are lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to part with, by your ſo often deſiring to continue in it. I know not whether the States will owne <hi>Iohn Husband</hi> for their Agent; ſure I am he was yours, and meerly inſtrumentall that frivolous p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ended Charge againſt me, contrived by your ſelfe and party, and managed by him according to your directions: that good man ſome twelve days ſince, ſayd that this <hi>Parliament</hi> had ſit too long, and he ſee corrup<g ref="char:EOLhyphen"/>tion in that Court as well as others, we will have it d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſolved and another Parliament choſen and that he would j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yne wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Soul<g ref="char:EOLhyphen"/>diers indiſſolving of it, and aſſure himſelfe, when the cries of Wid<g ref="char:EOLhyphen"/>dowes
+<pb n="7" facs="tcp:50792:4"/> and Fatherleſſe, and others wronged by him ſhall appeare, he ſhall hardly eſcape juſtice. But the truth is, the envy grew on your ſide againſt me (who ought you none) I durſt not with you &amp; your brother go ſo high as make Orders againſt verdicts in law, as in <hi>Iohn Adamſons</hi> Caſe, or declare you were in a power above Law, as in Mr. <hi>William Powers.</hi> I never held it fitting to ſit as Judge &amp; Accuſer, nor to vote a <hi>Gentleman</hi> a Delinquent in <hi>October,</hi> and after in <hi>February</hi> to proſecute and make him ſo by your endea<g ref="char:EOLhyphen"/>vours and Oaths: Nor croſſe an Order of Lords and Commons of Sequeſtrations in denying a fifth part where it was allotted, and giving no other reaſon, but <hi>it is my pleaſure and it ſhall be ſo,</hi> as your Brother of late did in another buſineſſe: I went according to the <hi>Dictates</hi> of my conſcience <hi>impartially,</hi> and I hope juſtly.</p>
+            <p>What was done in the Buſineſſe of the three Miniſters, was by <hi>Ordinance</hi> of <hi>Parliament;</hi> It is ſtrange how you knew by whom procured; however not one of the three have been convinced of or for <hi>Malignancy.</hi> The Charge you pretend againſt me you did indeed ſo imminently appeare in, as by your parties <hi>meanes</hi> and <hi>power,</hi> I then a <hi>Committee man,</hi> and ſuffered to act with you by Au<g ref="char:EOLhyphen"/>thority of Parliament for three yeares together, which you ought not to have done; but rather to have ſequeſtred me (take your owne words, with the clauſes following in your Remonſtrance moſt true againſt your ſelfe) at leaſt an <hi>Engliſh-man,</hi> was bebarred of hearing or ſeeing the Witneſſes produced againſt me, kept forceably out by that your pretious Agent, whom I could touch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arrowly, ſhould I tell him that to have two Waves at once is <hi>Fello<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> or that Mr. <hi>Stockdale</hi> the Miniſter of <hi>South-Church</hi> dyed of a wound he gave him in <hi>Auckland,</hi> with the Iron of his ſtaffe under <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are; but theſe belong to another <hi>Iuriſdiction:</hi> How conſiſt<g ref="char:EOLhyphen"/>tent this was to a free borne Engliſh man to be debarred of <hi>Legall</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xception to the <hi>Witneſſes</hi> produced againſt him, or to make his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efence againſt; what was ſayd againſt him, I will not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etermine.</p>
+            <pb n="8" facs="tcp:50792:5" rendition="simple:additions"/>
+            <p>For the long and impertinent ſtory of M. <hi>Blackiſtons,</hi> and his wives ſolicitations and tranſactions, with you and others about the ſurveigh; as it is moſt falſe, ſcandalous and unſufferable, ſo is it nothing at all either to your defence or my charge, but only in ſlaun<g ref="char:EOLunhyphen"/>ders you know alwayes ſomething ſticks: It had beene proper to have made a Lega<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Charge againſt the Gentleman, to which he might have anſwered; but it concernes him<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one I doubt not in due time both can, and will right himſelfe, though his fello<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Members (equally all ingaged in the ſcandall of one) would (as I hope they will not<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſe it over.</p>
+            <p>Are your Crimes of ſeaven yeares ſtanding? Pray what are thoſe you ſo eminen<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> appeare in againſt me? but for my part if they be true, I will never quote them in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Moneth, or ſtand upon their Age<g ref="char:punc">▪</g> However yours had not been thus long in diſpatching bad not your party b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en ſo potent that wee could not have hop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for Juſtice, till wee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man both of Worth and Honour amongſt us; who without partiallity durſt and wo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> doe right againſt the Greateſt and for the Meaneſt.</p>
+            <p>And is not a word of your Charge proved to this day? Let the event judge of the tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or falſity; of that I hope enough is proved to put off your F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, though not the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> part of what may: if Commiſſions be iſſued into the County, and men not affrighted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perſwaded from ſpeaking their conſcience.</p>
+            <p>As you are not carefull what to anſwer; ſo I thinke you are careleſſe what you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo many impertinencies, ſo little truth; ſo much malice and ſhewing of teeth where y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cannot bite, were never crowded into two innocent ſheets of p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r.</p>
+            <p>You feare not Juſtice, you beg not Mercy truely I wiſh you both, and am co<gap reason="illegible" resp="#PDCC" extent="7 letters">
+                  <desc>〈7 letters〉</desc>
+               </gap> you will ſtand in need of the laſt of them. Your uprightneſſe in all mens opinion h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been no leſſe; h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d not your ſelfe proclaimed it; you know who it was, caſt up hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and cryed, <hi>Lord I thanke thee I am not like this Publican, &amp;c.</hi> Neither will your innocen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhine any brighter by your making it a blazing ſtar, probably a falling one. Y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bold indeed to ſay you will doe ſo in ſpite of Mr. <hi>Blakiſtons</hi> Complices, who never though<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you worthy of his envy, nor yet does of his revenge. He hath not ſuch Complices <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one of your prime ones, who both in his owne, and other mens Caſes hath witneſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ready for any Inſtructions, which made him tell an Agent of his, <hi>finde but you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will doe it, I will finde Oathes:</hi> and in another Caſe inſtruct his ſervant into an app<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> perjury, almoſt to the ruine of a Gentleman.</p>
+            <p>In this you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concluding reſolution of aſſerting of reputation, having done it with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many unprobable untruths, avoyding that <hi>Scylla,</hi> you have falne into a worſe <hi>Ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and if you did not doubt (what you ſeeme to be confident on) what need you preſſent obt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine a faire and legall tryall, or implicitely taxe your Court by appealing to all ra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>onall men to be your Judges, or beg that Juſtice might take place, and Truth be ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>feſt, which very thing in doubting, you doe tac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely deny, or at leaſt feare, which is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> make up the totall of ſpleene and cauſeleſſe jealouſies, in inducing th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World to belie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> either that Mr. <hi>Blackiſton</hi> (on whom you would caſt all you <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>) can ſway <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or that they are all as partiall as you would beſmatter him to be; but <hi>Magna eſt veri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp; prevalebit.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
